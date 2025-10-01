@@ -6,7 +6,7 @@ A lightweight grading pipeline that:
 3) **Grades** the candidate against the rubric using any LLM in the OpenAI API.
 4) **Exports** a **PDF** report with the verdict and rationale.
 
-> Implemented in the notebook `Grader_Config_RLHF.ipynb` using `openai` and `reportlab`.
+> Implemented in a notebook `(available upon request)` using `openai` and `reportlab`.
 
 ---
 
