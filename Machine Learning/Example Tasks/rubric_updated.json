@@ -1,0 +1,200 @@
+[
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "bcb7f8c1-9d5e-4bd4-8a01-1001",
+    "criterion": "Uses the gravitational parameter as μ = 3.986004418e14 m^3 s^-2.",
+    "score": 5,
+    "tags": [
+      "constants",
+      "precision"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "8e3e6d2e-3a30-4b7a-ae6b-1002",
+    "criterion": "Uses Earth mean radius as R = 6,378.1 km and converts to meters where required.",
+    "score": 5,
+    "tags": [
+      "constants",
+      "units"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "e9d8b4f0-7f9d-4a7c-9a3a-1003",
+    "criterion": "Computes initial orbit radius r1 to 6,778,100 m (±0.1%).",
+    "score": 5,
+    "tags": [
+      "geometry",
+      "leo"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "2cb7b4a1-2d71-4a27-96a3-1004",
+    "criterion": "Computes target orbit radius r2 to 7,178,100 m (±0.1%).",
+    "score": 5,
+    "tags": [
+      "geometry",
+      "leo"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "a7f4c3b2-6a90-4dbb-9e52-1005",
+    "criterion": "Determines circular speed at 400 km to be v1 = 7,668.58 m s^-1 (±0.1%).",
+    "score": 6,
+    "tags": [
+      "circular_velocity",
+      "numerical"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "0f5d2c11-1d8e-4a1f-9a77-1006",
+    "criterion": "Determines orbital period at 400 km to be T1 = 5,553.58 s (±0.1%).",
+    "score": 6,
+    "tags": [
+      "period",
+      "numerical"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "c2f1b3a4-843e-4a82-8f19-1007",
+    "criterion": "Computes transfer ellipse semi-major axis to be a = 6,978,100 m (±0.1%).",
+    "score": 5,
+    "tags": [
+      "ellipse",
+      "geometry"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "6b0f9e3a-22e0-4b02-95ad-1008",
+    "criterion": "Computes perigee speed on the transfer ellipse to be v_p = 7,777.70 m s^-1 (±0.1%).",
+    "score": 6,
+    "tags": [
+      "transfer",
+      "perigee_speed"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "1a9c7e54-5e2c-4a8e-9e27-1009",
+    "criterion": "Computes apogee speed on the transfer ellipse to be v_a = 7,344.29 m s^-1 (±0.1%).",
+    "score": 6,
+    "tags": [
+      "transfer",
+      "apogee_speed"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "74e1f0b6-1d39-4c8a-b62e-1010",
+    "criterion": "Computes circular speed at 800 km to be v_circ@r2 = 7,451.85 m s^-1 (±0.1%).",
+    "score": 5,
+    "tags": [
+      "circular_velocity",
+      "numerical"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "98c7d4e0-f3c6-4d9f-9f3e-1011",
+    "criterion": "Calculates first impulse magnitude to be Δv1 = 109.12 m s^-1 (±0.5 m s^-1).",
+    "score": 7,
+    "tags": [
+      "delta_v",
+      "burn1"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "db6e2147-0cf7-4f3b-9b2f-1012",
+    "criterion": "Calculates second impulse magnitude to be Δv2 = 107.57 m s^-1 (±0.5 m s^-1).",
+    "score": 7,
+    "tags": [
+      "delta_v",
+      "burn2"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "4f1b9a3e-7d1b-4b0a-8f1a-1013",
+    "criterion": "Calculates total delta v to be Δv_total = 216.68 m s^-1 (±0.5 m s^-1).",
+    "score": 7,
+    "tags": [
+      "delta_v",
+      "total"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "ae3c6b2d-6d5a-4a73-9d15-1014",
+    "criterion": "Computes transfer time (half ellipse period) to be ToF = 2,900.59 s (±0.1%).",
+    "score": 6,
+    "tags": [
+      "time_of_flight",
+      "ellipse_period"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "0157c3ea-0a7a-4d5b-8f5e-1015",
+    "criterion": "Uses the vis-viva equation v = sqrt( μ (2/r − 1/a) ) for ellipse speeds.",
+    "score": 4,
+    "tags": [
+      "formulas",
+      "method"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "3f9b7e88-3a8b-4b1d-8b12-1016",
+    "criterion": "Reports all numerical results in SI units (meters, seconds, m s^-1).",
+    "score": 4,
+    "tags": [
+      "units",
+      "presentation"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "7b2ce9d4-1c2c-4f2a-9e45-1017",
+    "criterion": "Rounds reported numbers to three significant figures.",
+    "score": 3,
+    "tags": [
+      "rounding",
+      "presentation"
+    ],
+    "authorType": "HUMAN"
+  },
+  {
+    "__typename": "RubricItemType",
+    "rubricItemId": "2e8ad0b1-5b69-4c81-8c33-1018",
+    "criterion": "States all of the following modeling assumptions: point mass Earth, circular orbits, no drag, no J2, instantaneous impulsive burns.",
+    "score": 4,
+    "tags": [
+      "assumptions",
+      "model"
+    ],
+    "authorType": "HUMAN"
+  }
+]
