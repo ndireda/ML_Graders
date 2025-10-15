@@ -1,0 +1,1507 @@
+{
+"messages":[
+0:{
+"id":"aPhcfl9a"
+"threadId":"TG59SEK1"
+"from":"Monica Davis <monica.davis@corp.co>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Vacation plans"
+"date":"2023-11-14T22:35:33.143000Z"
+"text":"Thanks again for the meeting today — I appreciated the discussion and next steps."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"STARRED"
+2:"ALL"
+]
+"isRead":true
+"isStarred":true
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+1:{
+"id":"jKalKHmu"
+"threadId":"TG59SEK1"
+"replyToId":"aPhcfl9a"
+"from":"You <you@example.com>"
+"to":[
+0:"Monica Davis <monica.davis@example.com>"
+]
+"subject":"Vacation plans"
+"date":"2023-11-14T22:57:24.814000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"STARRED"
+2:"receipts"
+3:"ALL"
+]
+"isRead":true
+"isStarred":true
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+2:{
+"id":"PmnXANUt"
+"threadId":"TG59SEK1"
+"replyToId":"jKalKHmu"
+"from":"Megan Swanson <megan.swanson@startup.io>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Vacation plans"
+"date":"2023-11-14T23:28:34.854000Z"
+"text":"Please find the attached document and share your feedback when you have a moment."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+3:{
+"id":"0fqOKNCs"
+"threadId":"ZfSCz2BW"
+"from":"You <you@example.com>"
+"to":[
+0:"Michael Ray <michael.ray@example.com>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-14T23:34:43.883000Z"
+"text":"Please find the attached document and share your feedback when you have a moment."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"personal"
+2:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+4:{
+"id":"5AsJ2azB"
+"threadId":"ZfSCz2BW"
+"replyToId":"0fqOKNCs"
+"from":"Rhonda Hale <rhonda.hale@company.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-14T23:53:55.060000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"ARCHIVE"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+5:{
+"id":"1LRxFMSp"
+"threadId":"N0PVQKDi"
+"from":"You <you@example.com>"
+"to":[
+0:"Sarah Martin <sarah.martin@corp.co>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-15T00:13:14.007000Z"
+"text":"Hi there, just checking in on the latest status. Let me know if you have any questions."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"STARRED"
+2:"ALL"
+]
+"isRead":true
+"isStarred":true
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+6:{
+"id":"EkcRGriP"
+"threadId":"N0PVQKDi"
+"replyToId":"1LRxFMSp"
+"from":"Joshua Wright <joshua.wright@example.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-15T00:37:15.888000Z"
+"text":"Thanks again for the meeting today — I appreciated the discussion and next steps."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":true
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+7:{
+"id":"SSSjnOWB"
+"threadId":"N0PVQKDi"
+"replyToId":"EkcRGriP"
+"from":"Marvin Martin <marvin.martin@example.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"Randy King <alan.roach@corp.co>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-15T01:10:16.085000Z"
+"text":"Thanks again for the meeting today — I appreciated the discussion and next steps."
+"attachments":[]
+"labelIds":[
+0:"ARCHIVE"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+8:{
+"id":"Tua3ytym"
+"threadId":"N0PVQKDi"
+"replyToId":"SSSjnOWB"
+"from":"Eric Anderson <eric.anderson@company.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"Katherine Adams <julian.mora@company.com>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-15T01:31:15.554000Z"
+"text":"I wanted to share the updates we discussed. Everything is on track."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+9:{
+"id":"jfQS4I1M"
+"threadId":"N0PVQKDi"
+"replyToId":"Tua3ytym"
+"from":"Lance Jackson <lance.jackson@startup.io>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Meeting follow-up"
+"date":"2023-11-15T02:01:07.305000Z"
+"text":"Hi there, just checking in on the latest status. Let me know if you have any questions."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+10:{
+"id":"77AFokAX"
+"threadId":"whRL5Zwn"
+"from":"Jessica Reed <jessica.reed@company.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"Anna Rodriguez <dillon.king@company.com>"
+]
+"subject":"Shipping notice - Q1"
+"date":"2023-11-15T02:08:48.246000Z"
+"text":"Please find the attached document and share your feedback when you have a moment."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+11:{
+"id":"E3pSGM6M"
+"threadId":"whRL5Zwn"
+"replyToId":"77AFokAX"
+"from":"You <you@example.com>"
+"to":[
+0:"Jessica Reed <jessica.reed@corp.co>"
+]
+"subject":"Shipping notice - Q1"
+"date":"2023-11-15T02:27:43.168000Z"
+"text":"Hi there, just checking in on the latest status. Let me know if you have any questions."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+12:{
+"id":"5KAcM4PJ"
+"threadId":"whRL5Zwn"
+"replyToId":"E3pSGM6M"
+"from":"You <you@example.com>"
+"to":[
+0:"Jessica Reed <jessica.reed@company.com>"
+]
+"subject":"Shipping notice - Q1"
+"date":"2023-11-15T02:53:31.836000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+13:{
+"id":"sw4JTyi4"
+"threadId":"whRL5Zwn"
+"replyToId":"5KAcM4PJ"
+"from":"William James <william.james@corp.co>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"Tammy Gallegos <michael.kelly@startup.io>"
+]
+"subject":"Shipping notice - Q1"
+"date":"2023-11-15T03:13:45.449000Z"
+"text":"Thanks again for the meeting today — I appreciated the discussion and next steps."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+14:{
+"id":"4Scu3VOW"
+"threadId":"LKraEM1D"
+"from":"You <you@example.com>"
+"to":[
+0:"Sandra Mejia <sandra.mejia@startup.io>"
+]
+"subject":"Re: Quick question - Q4"
+"date":"2023-11-15T03:24:36.649000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+15:{
+"id":"bgd58vT0"
+"threadId":"LKraEM1D"
+"replyToId":"4Scu3VOW"
+"from":"You <you@example.com>"
+"to":[
+0:"Stephen Dickson <stephen.dickson@company.com>"
+]
+"subject":"Re: Quick question - Q4"
+"date":"2023-11-15T03:37:09.400000Z"
+"text":"This is a friendly reminder about the upcoming deadline. We are almost there!"
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+16:{
+"id":"N6nYQ7AE"
+"threadId":"LKraEM1D"
+"replyToId":"bgd58vT0"
+"from":"You <you@example.com>"
+"to":[
+0:"Alexandra Dixon <alexandra.dixon@example.com>"
+]
+"cc":[
+0:"Paul Smith <colleen.massey@corp.co>"
+]
+"subject":"Re: Quick question - Q4"
+"date":"2023-11-15T03:47:28.971000Z"
+"text":"Thanks again for the meeting today — I appreciated the discussion and next steps."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+17:{
+"id":"PLmuwHtw"
+"threadId":"LKraEM1D"
+"replyToId":"N6nYQ7AE"
+"from":"You <you@example.com>"
+"to":[
+0:"Cindy Hayden <cindy.hayden@startup.io>"
+]
+"subject":"Re: Quick question - Q4"
+"date":"2023-11-15T04:04:24.937000Z"
+"text":"This is a friendly reminder about the upcoming deadline. We are almost there!"
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+18:{
+"id":"4y00YVAK"
+"threadId":"LKraEM1D"
+"replyToId":"PLmuwHtw"
+"from":"Melissa Peters <melissa.peters@company.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"Brandy Wilson <todd.zimmerman@company.com>"
+]
+"subject":"Re: Quick question - Q4"
+"date":"2023-11-15T04:27:54.031000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+19:{
+"id":"BQziOdRP"
+"threadId":"EfI5B1j1"
+"from":"Robin Galloway <robin.galloway@example.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"David Kim <alexander.russell@example.com>"
+]
+"subject":"Welcome! - Q2"
+"date":"2023-11-15T04:36:56.516000Z"
+"text":"This is a friendly reminder about the upcoming deadline. We are almost there!"
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+20:{
+"id":"UCO00mR5"
+"threadId":"EfI5B1j1"
+"replyToId":"BQziOdRP"
+"from":"You <you@example.com>"
+"to":[
+0:"Robin Galloway <robin.galloway@mail.test>"
+]
+"bcc":[
+0:"Jennifer Harper <benjamin.perkins@startup.io>"
+]
+"subject":"Welcome! - Q2"
+"date":"2023-11-15T04:48:41.662000Z"
+"text":"Thanks again for the meeting today — I appreciated the discussion and next steps."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"travel"
+2:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+21:{
+"id":"fVyckgF2"
+"threadId":"EfI5B1j1"
+"replyToId":"UCO00mR5"
+"from":"You <you@example.com>"
+"to":[
+0:"Robin Galloway <robin.galloway@startup.io>"
+]
+"subject":"Welcome! - Q2"
+"date":"2023-11-15T05:06:47.823000Z"
+"text":"Please find the attached document and share your feedback when you have a moment."
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+22:{
+"id":"orZQsuWF"
+"threadId":"EfI5B1j1"
+"replyToId":"fVyckgF2"
+"from":"Anthony Lambert <anthony.lambert@startup.io>"
+"to":[
+0:"You <you@example.com>"
+]
+"bcc":[
+0:"Jill Osborne <jeffrey.crane@company.com>"
+]
+"subject":"Welcome! - Q2"
+"date":"2023-11-15T05:25:49.676000Z"
+"text":"I wanted to share the updates we discussed. Everything is on track."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"receipts"
+2:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":true
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+23:{
+"id":"lylcF4iS"
+"threadId":"EfI5B1j1"
+"replyToId":"orZQsuWF"
+"from":"Austin Davis <austin.davis@corp.co>"
+"to":[
+0:"You <you@example.com>"
+]
+"cc":[
+0:"Shane Williams <andrea.kennedy@mail.test>"
+]
+"subject":"Welcome! - Q2"
+"date":"2023-11-15T05:52:47.894000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"STARRED"
+2:"ALL"
+]
+"isRead":true
+"isStarred":true
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+24:{
+"id":"s68dNmWB"
+"threadId":"13KuwSqQ"
+"from":"Sandra Bryant <sandra.bryant@example.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Event invitation - Q2"
+"date":"2023-11-15T06:03:54.046000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+25:{
+"id":"lEUOOrqc"
+"threadId":"13KuwSqQ"
+"replyToId":"s68dNmWB"
+"from":"Ashley Wilcox <ashley.wilcox@company.com>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Event invitation - Q2"
+"date":"2023-11-15T06:27:18.793000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+26:{
+"id":"PCnFJt9H"
+"threadId":"WC9y9yv3"
+"from":"Sherri Moran <sherri.moran@corp.co>"
+"to":[
+0:"You <you@example.com>"
+]
+"subject":"Invoice attached"
+"date":"2023-11-15T06:51:43.522000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":false
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+27:{
+"id":"G1p64LSl"
+"threadId":"WC9y9yv3"
+"replyToId":"PCnFJt9H"
+"from":"You <you@example.com>"
+"to":[
+0:"Sherri Moran <sherri.moran@corp.co>"
+]
+"bcc":[
+0:"Kevin Moore <alexander.leach@company.com>"
+]
+"subject":"Invoice attached"
+"date":"2023-11-15T07:22:58.485000Z"
+"text":"This is a friendly reminder about the upcoming deadline. We are almost there!"
+"attachments":[]
+"labelIds":[
+0:"SENT"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+28:{
+"id":"J6aGR2J7"
+"threadId":"J6aGR2J7"
+"from":"Jennifer Phillips <jennifer.phillips@corp.co>"
+"to":[
+0:"you@example.com"
+]
+"cc":[
+0:"Kaitlin Andrade <robert.santos@startup.io>"
+]
+"subject":"Introductions"
+"date":"2023-11-15T07:31:32.446000Z"
+"text":"Please find the attached document and share your feedback when you have a moment."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+29:{
+"id":"mFjuzZz0"
+"threadId":"mFjuzZz0"
+"from":"Andre Poole <andre.poole@example.com>"
+"to":[
+0:"you@example.com"
+]
+"cc":[
+0:"Desiree York <thomas.brown@corp.co>"
+]
+"subject":"Project update"
+"date":"2023-11-15T08:01:04.222000Z"
+"text":"I wanted to share the updates we discussed. Everything is on track."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+30:{
+"id":"s4BaKSim"
+"threadId":"s4BaKSim"
+"from":"Ronald Griffin <ronald.griffin@corp.co>"
+"to":[
+0:"you@example.com"
+]
+"cc":[
+0:"Lisa Smith <benjamin.hickman@mail.test>"
+]
+"subject":"Weekly digest"
+"date":"2023-11-15T08:30:59.747000Z"
+"text":"Please find the attached document and share your feedback when you have a moment."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+31:{
+"id":"fKSCmgw8"
+"threadId":"fKSCmgw8"
+"from":"Casey Edwards <casey.edwards@company.com>"
+"to":[
+0:"you@example.com"
+]
+"subject":"Action required"
+"date":"2023-11-15T08:54:28.009000Z"
+"text":"I wanted to share the updates we discussed. Everything is on track."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":false
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+32:{
+"id":"DhA4mVGP"
+"threadId":"DhA4mVGP"
+"from":"Meagan Coleman <meagan.coleman@startup.io>"
+"to":[
+0:"you@example.com"
+]
+"cc":[
+0:"Lauren Morris <stephen.barrett@corp.co>"
+]
+"subject":"Weekly digest"
+"date":"2023-11-15T09:24:08.292000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+33:{
+"id":"mVLmnFqc"
+"threadId":"mVLmnFqc"
+"from":"Robert Butler <robert.butler@corp.co>"
+"to":[
+0:"you@example.com"
+]
+"cc":[
+0:"Justin Hammond <bruce.villa@company.com>"
+]
+"bcc":[
+0:"Jeanette Allison <melissa.diaz@corp.co>"
+]
+"subject":"Your order confirmation"
+"date":"2023-11-15T09:46:54.347000Z"
+"text":"Hi there, just checking in on the latest status. Let me know if you have any questions."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+34:{
+"id":"EzsENlc5"
+"threadId":"EzsENlc5"
+"from":"Renee Mahoney <renee.mahoney@mail.test>"
+"to":[
+0:"you@example.com"
+]
+"subject":"Project update"
+"date":"2023-11-15T10:02:15.751000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"STARRED"
+2:"ALL"
+]
+"isRead":false
+"isStarred":true
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+35:{
+"id":"G5KbM1ZY"
+"threadId":"G5KbM1ZY"
+"from":"Rose Edwards <rose.edwards@example.com>"
+"to":[
+0:"you@example.com"
+]
+"bcc":[
+0:"Raymond Herring <brett.perkins@mail.test>"
+]
+"subject":"Vacation plans"
+"date":"2023-11-15T10:36:54.655000Z"
+"text":"This is a friendly reminder about the upcoming deadline. We are almost there!"
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+36:{
+"id":"TUGGu89b"
+"threadId":"TUGGu89b"
+"from":"Brandy Mcgee <brandy.mcgee@corp.co>"
+"to":[
+0:"you@example.com"
+]
+"bcc":[
+0:"Amy Robinson <timothy.benitez@example.com>"
+]
+"subject":"Project update"
+"date":"2023-11-15T10:51:53.223000Z"
+"text":"This is a friendly reminder about the upcoming deadline. We are almost there!"
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+37:{
+"id":"zhRrmJzh"
+"threadId":"zhRrmJzh"
+"from":"Amanda Gardner <amanda.gardner@example.com>"
+"to":[
+0:"you@example.com"
+]
+"subject":"Invoice attached"
+"date":"2023-11-15T11:07:19.495000Z"
+"text":"Congratulations on the milestone! Looking forward to the next phase."
+"attachments":[]
+"labelIds":[
+0:"ARCHIVE"
+1:"ALL"
+]
+"isRead":true
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+38:{
+"id":"N8v9SQdH"
+"threadId":"N8v9SQdH"
+"from":"Amanda Matthews <amanda.matthews@company.com>"
+"to":[
+0:"you@example.com"
+]
+"subject":"Quarterly results"
+"date":"2023-11-15T11:32:39.617000Z"
+"text":"I wanted to share the updates we discussed. Everything is on track."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"ALL"
+]
+"isRead":false
+"isStarred":false
+"isImportant":true
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+39:{
+"id":"Vgku4ALf"
+"threadId":"Vgku4ALf"
+"from":"Tammie Ford <tammie.ford@startup.io>"
+"to":[
+0:"you@example.com"
+]
+"subject":"Welcome!"
+"date":"2023-11-15T11:45:42.455000Z"
+"text":"I wanted to share the updates we discussed. Everything is on track."
+"attachments":[]
+"labelIds":[
+0:"INBOX"
+1:"receipts"
+2:"ALL"
+]
+"isRead":false
+"isStarred":false
+"isImportant":false
+"snoozeUntil":NULL
+"isDraftDeleted":false
+}
+40:{
+"id":"Pch6UDSh"
+"threadId":"78X_DpMD"
+"from":"You <you@example.com>"
+"to":[
+0:"Rhonda Hale <rhonda.hale@company.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Event invitation - Q2"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"Hey Rhonda,
+Please take a look at this quarterly update.
+
+Best,
+You
+---------- Forwarded message ----------
+From: Ashley Wilcox <ashley.wilcox@company.com>
+Date: 11/14/2023, 10:27:18 PM
+Subject: Event invitation - Q2
+To: You <you@example.com>
+
+Congratulations on the milestone! Looking forward to the next phase."
+"html":"<div>Hey Rhonda,</div><div>Please take a look at this quarterly update.</div><div>
+Best,</div><div>You</div>---------- Forwarded message ----------<br>From: Ashley Wilcox &lt;ashley.wilcox@company.com&gt;<br>Date: 11/14/2023, 10:27:18 PM<br>Subject: Event invitation - Q2<br>To: You &lt;you@example.com&gt;<br><br>Congratulations on the milestone! Looking forward to the next phase."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+41:{
+"id":"A_aW3-TY"
+"threadId":"sgCGpkmM"
+"from":"You <you@example.com>"
+"to":[
+0:"Rhonda Hale <rhonda.hale@company.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Welcome! - Q2"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"Hey Rhonda,
+Please take a look at this quarterly update.
+
+Best,
+You
+---------- Forwarded message ----------
+From: Austin Davis <austin.davis@corp.co>
+Date: 11/14/2023, 9:52:47 PM
+Subject: Welcome! - Q2
+To: You <you@example.com>
+
+Congratulations on the milestone! Looking forward to the next phase."
+"html":"<div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">Hey Rhonda,</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">Please take a look at this quarterly update.</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">
+Best,</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">You</div></div>---------- Forwarded message ----------<br>From: Austin Davis &lt;austin.davis@corp.co&gt;<br>Date: 11/14/2023, 9:52:47 PM<br>Subject: Welcome! - Q2<br>To: You &lt;you@example.com&gt;<br><br>Congratulations on the milestone! Looking forward to the next phase."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+42:{
+"id":"UNSkSq8V"
+"threadId":"uiN7wlZZ"
+"from":"You <you@example.com>"
+"to":[
+0:"Rhonda Hale <rhonda.hale@company.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Re: Quick question - Q4"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"Hey Rhonda,
+Please take a look at this quarterly update.
+
+Best,
+You
+---------- Forwarded message ----------
+From: Melissa Peters <melissa.peters@company.com>
+Date: 11/14/2023, 8:27:54 PM
+Subject: Re: Quick question - Q4
+To: You <you@example.com>
+
+Congratulations on the milestone! Looking forward to the next phase."
+"html":"<div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">Hey Rhonda,</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">Please take a look at this quarterly update.</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">
+Best,</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">You</div></div>---------- Forwarded message ----------<br>From: Melissa Peters &lt;melissa.peters@company.com&gt;<br>Date: 11/14/2023, 8:27:54 PM<br>Subject: Re: Quick question - Q4<br>To: You &lt;you@example.com&gt;<br><br>Congratulations on the milestone! Looking forward to the next phase."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+43:{
+"id":"0-5u3fgz"
+"threadId":"wJ39d9sA"
+"from":"You <you@example.com>"
+"to":[
+0:"Rhonda Hale <rhonda.hale@company.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Shipping notice - Q1"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"Hey Rhonda,
+Please take a look at this quarterly update.
+
+Best,
+You
+---------- Forwarded message ----------
+From: William James <william.james@corp.co>
+Date: 11/14/2023, 7:13:45 PM
+Subject: Shipping notice - Q1
+To: You <you@example.com>
+
+Thanks again for the meeting today — I appreciated the discussion and next steps."
+"html":"<div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">Hey Rhonda,</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">Please take a look at this quarterly update.</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">
+Best,</div><div style="border-color: rgb(226, 232, 240); outline-color: oklab(0.445519 -0.00823352 -0.0364976 / 0.5); background-color: rgb(248, 250, 252); color: rgb(15, 23, 42);">You</div></div>---------- Forwarded message ----------<br>From: William James &lt;william.james@corp.co&gt;<br>Date: 11/14/2023, 7:13:45 PM<br>Subject: Shipping notice - Q1<br>To: You &lt;you@example.com&gt;<br><br>Thanks again for the meeting today — I appreciated the discussion and next steps."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+44:{
+"id":"h6KWg5Mi"
+"threadId":"-8TBtR4O"
+"from":"You <you@example.com>"
+"to":[
+0:"Joshua Wright <joshua.wright@example.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Vacation plans"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"---------- Forwarded message ----------
+From: Megan Swanson <megan.swanson@startup.io>
+Date: 11/14/2023, 3:28:34 PM
+Subject: Vacation plans
+To: You <you@example.com>
+
+Please find the attached document and share your feedback when you have a moment."
+"html":"---------- Forwarded message ----------<br>From: Megan Swanson &lt;megan.swanson@startup.io&gt;<br>Date: 11/14/2023, 3:28:34 PM<br>Subject: Vacation plans<br>To: You &lt;you@example.com&gt;<br><br>Please find the attached document and share your feedback when you have a moment."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+45:{
+"id":"xcMjaj60"
+"threadId":"GGfwVXmy"
+"from":"You <you@example.com>"
+"to":[
+0:"Joshua Wright <joshua.wright@example.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Meeting follow-up"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"---------- Forwarded message ----------
+From: Rhonda Hale <rhonda.hale@company.com>
+Date: 11/14/2023, 3:53:55 PM
+Subject: Meeting follow-up
+To: You <you@example.com>
+
+Congratulations on the milestone! Looking forward to the next phase."
+"html":"---------- Forwarded message ----------<br>From: Rhonda Hale &lt;rhonda.hale@company.com&gt;<br>Date: 11/14/2023, 3:53:55 PM<br>Subject: Meeting follow-up<br>To: You &lt;you@example.com&gt;<br><br>Congratulations on the milestone! Looking forward to the next phase."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+46:{
+"id":"GjH8A9Ff"
+"threadId":"kbaRvK0h"
+"from":"You <you@example.com>"
+"to":[
+0:"Joshua Wright <joshua.wright@example.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Introductions"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"---------- Forwarded message ----------
+From: Jennifer Phillips <jennifer.phillips@corp.co>
+Date: 11/14/2023, 11:31:32 PM
+Subject: Introductions
+To: you@example.com
+
+Please find the attached document and share your feedback when you have a moment."
+"html":"---------- Forwarded message ----------<br>From: Jennifer Phillips &lt;jennifer.phillips@corp.co&gt;<br>Date: 11/14/2023, 11:31:32 PM<br>Subject: Introductions<br>To: you@example.com<br><br>Please find the attached document and share your feedback when you have a moment."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+47:{
+"id":"HnZlM5o_"
+"threadId":"hAOdpVcS"
+"from":"You <you@example.com>"
+"to":[
+0:"Joshua Wright <joshua.wright@example.com>"
+]
+"cc":[]
+"bcc":[]
+"subject":"Fwd: Weekly digest"
+"date":"2030-03-14T08:14:00.000Z"
+"text":"---------- Forwarded message ----------
+From: Ronald Griffin <ronald.griffin@corp.co>
+Date: 11/15/2023, 12:30:59 AM
+Subject: Weekly digest
+To: you@example.com
+
+Please find the attached document and share your feedback when you have a moment."
+"html":"---------- Forwarded message ----------<br>From: Ronald Griffin &lt;ronald.griffin@corp.co&gt;<br>Date: 11/15/2023, 12:30:59 AM<br>Subject: Weekly digest<br>To: you@example.com<br><br>Please find the attached document and share your feedback when you have a moment."
+"isRead":true
+"isStarred":false
+"isImportant":false
+"labelIds":[
+0:"SENT"
+]
+"attachments":[]
+"snoozeUntil":NULL
+}
+]
+"threads":[
+0:{
+"id":"TG59SEK1"
+"subject":"Vacation plans"
+"participants":[
+0:"Megan Swanson"
+1:"Monica Davis"
+2:"You"
+]
+"messageIds":[
+0:"aPhcfl9a"
+1:"jKalKHmu"
+2:"PmnXANUt"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":true
+}
+1:{
+"id":"ZfSCz2BW"
+"subject":"Meeting follow-up"
+"participants":[
+0:"Rhonda Hale"
+1:"You"
+]
+"messageIds":[
+0:"0fqOKNCs"
+1:"5AsJ2azB"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+}
+2:{
+"id":"N0PVQKDi"
+"subject":"Meeting follow-up"
+"participants":[
+0:"Eric Anderson"
+1:"Marvin Martin"
+2:"You"
+3:"Joshua Wright"
+4:"Lance Jackson"
+]
+"messageIds":[
+0:"1LRxFMSp"
+1:"EkcRGriP"
+2:"SSSjnOWB"
+3:"Tua3ytym"
+4:"jfQS4I1M"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":true
+}
+3:{
+"id":"whRL5Zwn"
+"subject":"Shipping notice - Q1"
+"participants":[
+0:"William James"
+1:"Jessica Reed"
+2:"You"
+]
+"messageIds":[
+0:"77AFokAX"
+1:"E3pSGM6M"
+2:"5KAcM4PJ"
+3:"sw4JTyi4"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+}
+4:{
+"id":"LKraEM1D"
+"subject":"Re: Quick question - Q4"
+"participants":[
+0:"Melissa Peters"
+1:"You"
+]
+"messageIds":[
+0:"4Scu3VOW"
+1:"bgd58vT0"
+2:"N6nYQ7AE"
+3:"PLmuwHtw"
+4:"4y00YVAK"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+}
+5:{
+"id":"EfI5B1j1"
+"subject":"Welcome! - Q2"
+"participants":[
+0:"Anthony Lambert"
+1:"Robin Galloway"
+2:"Austin Davis"
+3:"You"
+]
+"messageIds":[
+0:"BQziOdRP"
+1:"UCO00mR5"
+2:"fVyckgF2"
+3:"orZQsuWF"
+4:"lylcF4iS"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":true
+}
+6:{
+"id":"13KuwSqQ"
+"subject":"Event invitation - Q2"
+"participants":[
+0:"Sandra Bryant"
+1:"Ashley Wilcox"
+2:"You"
+]
+"messageIds":[
+0:"s68dNmWB"
+1:"lEUOOrqc"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+}
+7:{
+"id":"WC9y9yv3"
+"subject":"Invoice attached"
+"participants":[
+0:"Sherri Moran"
+1:"You"
+]
+"messageIds":[
+0:"PCnFJt9H"
+1:"G1p64LSl"
+]
+"lastActivity":"2023-11-15T07:22:58.485000Z"
+"isStarred":false
+}
+8:{
+"id":"78X_DpMD"
+"subject":"Fwd: Event invitation - Q2"
+"participants":[
+0:"you@example.com"
+1:"rhonda.hale@company.com"
+]
+"messageIds":[
+0:"Pch6UDSh"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"13KuwSqQ"
+}
+9:{
+"id":"sgCGpkmM"
+"subject":"Fwd: Welcome! - Q2"
+"participants":[
+0:"you@example.com"
+1:"rhonda.hale@company.com"
+]
+"messageIds":[
+0:"A_aW3-TY"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"EfI5B1j1"
+}
+10:{
+"id":"uiN7wlZZ"
+"subject":"Fwd: Re: Quick question - Q4"
+"participants":[
+0:"you@example.com"
+1:"rhonda.hale@company.com"
+]
+"messageIds":[
+0:"UNSkSq8V"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"LKraEM1D"
+}
+11:{
+"id":"wJ39d9sA"
+"subject":"Fwd: Shipping notice - Q1"
+"participants":[
+0:"you@example.com"
+1:"rhonda.hale@company.com"
+]
+"messageIds":[
+0:"0-5u3fgz"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"whRL5Zwn"
+}
+12:{
+"id":"-8TBtR4O"
+"subject":"Fwd: Vacation plans"
+"participants":[
+0:"you@example.com"
+1:"joshua.wright@example.com"
+]
+"messageIds":[
+0:"h6KWg5Mi"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"TG59SEK1"
+}
+13:{
+"id":"GGfwVXmy"
+"subject":"Fwd: Meeting follow-up"
+"participants":[
+0:"you@example.com"
+1:"joshua.wright@example.com"
+]
+"messageIds":[
+0:"xcMjaj60"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"ZfSCz2BW"
+}
+14:{
+"id":"kbaRvK0h"
+"subject":"Fwd: Introductions"
+"participants":[
+0:"you@example.com"
+1:"joshua.wright@example.com"
+]
+"messageIds":[
+0:"GjH8A9Ff"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"J6aGR2J7"
+}
+15:{
+"id":"hAOdpVcS"
+"subject":"Fwd: Weekly digest"
+"participants":[
+0:"you@example.com"
+1:"joshua.wright@example.com"
+]
+"messageIds":[
+0:"HnZlM5o_"
+]
+"lastActivity":"2030-03-14T08:14:00.000Z"
+"isStarred":false
+"parentThreadId":"s4BaKSim"
+}
+]
+"labels":[
+0:{
+"id":"INBOX"
+"name":"INBOX"
+"type":"SYSTEM"
+}
+1:{
+"id":"SENT"
+"name":"SENT"
+"type":"SYSTEM"
+}
+2:{
+"id":"DRAFTS"
+"name":"DRAFTS"
+"type":"SYSTEM"
+}
+3:{
+"id":"TRASH"
+"name":"TRASH"
+"type":"SYSTEM"
+}
+4:{
+"id":"SPAM"
+"name":"SPAM"
+"type":"SYSTEM"
+}
+5:{
+"id":"ARCHIVE"
+"name":"ARCHIVE"
+"type":"SYSTEM"
+}
+6:{
+"id":"STARRED"
+"name":"STARRED"
+"type":"SYSTEM"
+}
+7:{
+"id":"IMPORTANT"
+"name":"IMPORTANT"
+"type":"SYSTEM"
+}
+8:{
+"id":"work"
+"name":"work"
+"type":"USER"
+"color":"#1E88E5"
+}
+9:{
+"id":"personal"
+"name":"personal"
+"type":"USER"
+"color":"#10B981"
+}
+10:{
+"id":"receipts"
+"name":"receipts"
+"type":"USER"
+"color":"#F97316"
+}
+11:{
+"id":"travel"
+"name":"travel"
+"type":"USER"
+"color":"#8B5CF6"
+}
+12:{
+"id":"important"
+"name":"important"
+"type":"USER"
+"color":"#F59E0B"
+}
+13:{
+"id":"ALL"
+"name":"ALL MAIL"
+"type":"SYSTEM"
+}
+]
+"settings":{
+"displayName":"You"
+"signature":""
+}
+"contacts":{}
+}
